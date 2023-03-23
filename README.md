@@ -1,1 +1,2 @@
-# Practica-GitHub-Grupo150
+# Practica-GitHub-Grupo150	
+Mario Alejandro Romero
